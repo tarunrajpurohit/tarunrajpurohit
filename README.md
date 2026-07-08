@@ -37,7 +37,6 @@ A **multi-channel dropshipping platform** connecting manufacturers and resellers
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunrajpurohit&show_icons=true&theme=radical&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunrajpurohit&layout=compact&theme=radical&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunrajpurohit&theme=radical&hide_border=true" />
 
 </div>
