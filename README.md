@@ -28,3 +28,16 @@ A **multi-channel dropshipping platform** connecting manufacturers and resellers
 > 🧪 &nbsp;**API testing** — Git-friendly, version-controlled contracts via Bruno
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header" width="100%"/>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunrajpurohit&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunrajpurohit&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunrajpurohit&theme=radical&hide_border=true" />
+
+</div>
