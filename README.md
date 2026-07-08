@@ -1,8 +1,9 @@
+<img src="https://res.cloudinary.com/ds82f9i2z/image/upload/v1783507741/bn_j3pksr.png" width="100%"/>
+
 ## 📌 Featured Project
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3&section=header" width="100%"/>
 
-<img src="https://res.cloudinary.com/ds82f9i2z/image/upload/v1783507741/bn_j3pksr.png" width="100%"/>
 ### 🚀 [PaceDrop](https://github.com/tarunrajpurohit/PaceDrop)
 
 A **multi-channel dropshipping platform** connecting manufacturers and resellers — with automated product sync, inventory management, and an admin-driven import approval workflow, while preserving manufacturer anonymity on reseller-facing endpoints.
