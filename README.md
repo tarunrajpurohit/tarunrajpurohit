@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3&section=header" width="100%"/>
 
 ### 🚀 [PaceDrop](https://github.com/tarunrajpurohit/PaceDrop)
+<img src="https://res.cloudinary.com/ds82f9i2z/image/upload/v1783507234/ChatGPT_Image_Jul_8_2026_04_10_19_PM_kle5si.png" width="100%"/>
 
 A **multi-channel dropshipping platform** connecting manufacturers and resellers — with automated product sync, inventory management, and an admin-driven import approval workflow, while preserving manufacturer anonymity on reseller-facing endpoints.
 
