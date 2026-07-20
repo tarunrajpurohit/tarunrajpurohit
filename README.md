@@ -1,40 +1,300 @@
-## 📌 Featured Project
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3&section=header" width="100%"/>
+# 👋 Hi, I'm Tarun Raj
 
-### 🚀 [PaceDrop](https://github.com/tarunrajpurohit/PaceDrop)
+### Full Stack Developer • Shopify Developer • AI Builder
 
-A **multi-channel dropshipping platform** connecting manufacturers and resellers — with automated product sync, inventory management, and an admin-driven import approval workflow, while preserving manufacturer anonymity on reseller-facing endpoints.
+Building scalable SaaS, Shopify applications, and distributed backend systems.
 
-**🧰 Tech Used**
+</div>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-E63946?style=flat-square)
+---
 
-**✨ Highlights**
+# 🚀 Current Focus
 
-> 🔄 &nbsp;**Event-driven backend** — custom distributed EventBus (Redis Pub/Sub + distributed locks) decouples controllers from services, keeping the system safe to scale horizontally
+<table>
+<tr>
 
-> 🚦 &nbsp;**Background job processing** — BullMQ + Redis handle heavy async work (e.g. Shopify channel sync) without blocking requests
+<td width="33%" align="center">
 
-> ⚡ &nbsp;**Cache-aside pattern** — Redis caches product data with automatic invalidation on writes
+## 📦
 
-> 🔐 &nbsp;**Security-first** — AES-256 encrypted tokens, hashed API keys, Zod-validated inputs throughout
+### PaceDrop
 
-> 🧪 &nbsp;**API testing** — Git-friendly, version-controlled contracts via Bruno
+Building a multi-channel dropshipping platform.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header" width="100%"/>
+</td>
 
-<br/>
+<td width="33%" align="center">
 
-## 📊 GitHub Stats
+## 🤖
+
+### AI
+
+Building AI-powered SaaS products and developer tools.
+
+</td>
+
+<td width="33%" align="center">
+
+## ⚡
+
+### Backend
+
+Distributed systems, queues, caching and scalable APIs.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 About Me
+
+- 🚀 Full Stack Developer
+- 🛒 Shopify App & Theme Developer
+- ⚡ Backend Engineering Enthusiast
+- 🤖 AI Application Builder
+- 📚 Passionate about System Design & Distributed Systems
+
+---
+
+# 🌟 Featured Project
+
+<table>
+<tr>
+<td>
+
+# 📦 PaceDrop
+
+Multi-channel dropshipping platform connecting manufacturers and resellers.
+
+### ✨ Features
+
+- ⚡ Event Driven Architecture
+- 🔥 BullMQ Queue Processing
+- 🚀 Redis Caching
+- 🔐 API Key Management
+- 📦 Inventory Synchronization
+- 🛒 Shopify Integration
+- 🌍 Multi-Tenant System
+- 📊 PostgreSQL
+- 🧩 Modular Backend
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis"/>
+
+</p>
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode"/>
+
+</p>
+
+---
+
+# 📊 Developer Snapshot
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+# 💻
+
+### 4+
+
+Years
+
+</td>
+
+<td align="center" width="25%">
+
+# 🚀
+
+### 20+
+
+Projects
+
+</td>
+
+<td align="center" width="25%">
+
+# 📦
+
+### SaaS
+
+Builder
+
+</td>
+
+<td align="center" width="25%">
+
+# 🛒
+
+### Shopify
+
+Developer
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 Core Expertise
+
+<table>
+
+<tr>
+
+<td>
+
+### ⚛ Frontend
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Redux
+
+</td>
+
+<td>
+
+### 🟢 Backend
+
+- Node.js
+- Express
+- PostgreSQL
+- Redis
+- BullMQ
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ☁ Cloud
+
+- Docker
+- Linux
+- GitHub Actions
+
+</td>
+
+<td>
+
+### 🤖 AI
+
+- OpenAI APIs
+- RAG
+- AI Agents
+- Prompt Engineering
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🧠 Engineering Interests
+
+🧩 System Design
+
+⚡ Event Driven Architecture
+
+📦 SaaS Development
+
+🛍 Shopify Ecosystem
+
+🤖 Artificial Intelligence
+
+☁ Cloud Infrastructure
+
+---
+
+# 📌 Featured Repositories
+
+⭐ PaceDrop
+
+⭐ Backend Engineering Skill
+
+⭐ Shopify Apps
+
+⭐ AI SaaS
+
+⭐ Portfolio
+
+⭐ System Design Notes
+
+---
+
+# 📈 2026 Goals
+
+- 🚀 Launch PaceDrop MVP
+- 🤖 Build AI SaaS
+- 📚 Master Distributed Systems
+- 🌍 Contribute to Open Source
+- ⭐ Grow Engineering Portfolio
+
+---
+
+# 📬 Connect
+
+<p>
+
+<a href="https://github.com/tarunrajpurohit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunrajpurohit&theme=radical&hide_border=true" />
+## ⭐ Thanks for visiting!
+
+*"Build products that people love, not just code that works."*
 
 </div>
